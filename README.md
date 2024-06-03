@@ -42,6 +42,3 @@ Este projeto acadêmico visa demonstrar a capacidade de detecção de objetos em
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request com melhorias ou correções.
 
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
