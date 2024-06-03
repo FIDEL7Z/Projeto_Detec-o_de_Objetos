@@ -4,6 +4,9 @@
 
 Este projeto acadêmico visa demonstrar a capacidade de detecção de objetos em tempo real utilizando o modelo YOLOv4-Tiny em conjunto com a biblioteca OpenCV. O modelo é treinado para identificar objetos e pessoas em um fluxo de vídeo, exibindo caixas delimitadoras em torno dos objetos detectados, juntamente com seus respectivos nomes de classe e pontuações de confiança.
 
+
+![Projeto](https://github.com/FIDEL7Z/Projeto_Detec-o_de_Objetos/assets/103468557/f89ec0de-abf1-4cf7-a411-983324d20ac7)
+
 ## Pré-requisitos
 
 - Python 3.x
